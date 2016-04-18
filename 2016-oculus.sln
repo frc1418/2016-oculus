@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{97B2EE18-C3F8-709D-9197-ABF2D0A7744F}") = "2016-oculus", "Assembly-CSharp.csproj", "{54A2AD53-E2DB-54F7-07B8-44FD4D3FB009}"
+EndProject
+Project("{97B2EE18-C3F8-709D-9197-ABF2D0A7744F}") = "2016-oculus", "Assembly-CSharp-Editor.csproj", "{83C4F2AF-4245-D7BB-6E7A-57636D69F700}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{54A2AD53-E2DB-54F7-07B8-44FD4D3FB009}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54A2AD53-E2DB-54F7-07B8-44FD4D3FB009}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54A2AD53-E2DB-54F7-07B8-44FD4D3FB009}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54A2AD53-E2DB-54F7-07B8-44FD4D3FB009}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83C4F2AF-4245-D7BB-6E7A-57636D69F700}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83C4F2AF-4245-D7BB-6E7A-57636D69F700}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83C4F2AF-4245-D7BB-6E7A-57636D69F700}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83C4F2AF-4245-D7BB-6E7A-57636D69F700}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
